@@ -53,6 +53,7 @@ nav{
 }
 
 .text{
-    padding: 2rem;
+    padding: 1.5rem;
     font-size: 1.1rem;
+    text-align: center;
 }
